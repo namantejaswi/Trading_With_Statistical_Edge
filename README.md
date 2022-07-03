@@ -1,6 +1,10 @@
 # Trading_With_Statistical_Edge 💸 🤑
 We explore how certain statistical concepts can help us become a better trader
 
+Refer this article written to explain the workings
+
+https://medium.com/coinmonks/trading-with-a-statistical-edge-2afea137b261
+
 
 ## Monte Carlo Simulation 🎲
 This project aims to uderstand the mathematics/statistics behind gambling and apply the learnings to a favourable betting enviroment with an edge like trading
