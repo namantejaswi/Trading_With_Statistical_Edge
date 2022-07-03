@@ -1,7 +1,7 @@
 # Trading_With_Statistical_Edge 💸 🤑
 We explore how certain statistical concepts can help us become a better trader
 
-PLease refer this article written to explain the details.
+Please refer this article written to explain the details.
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@NamanTejaswi_13843/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@NamanTejaswi_13843/0" alt="Recent Article 0"> 
 
